@@ -1,0 +1,37 @@
+go-fullstack-quickstart
+Copyright 2025 Vadim Oparin <vad.oparin@gmail.com>
+
+This product includes software developed by Vadim Oparin.
+
+--------------------------------------------------------------------------------
+
+THIRD-PARTY DEPENDENCIES
+
+This software includes the following third-party dependencies.
+For a complete list of dependencies and their versions, see go.mod.
+
+When dependencies are added to this project, their copyright notices and
+licenses should be documented here if required by their respective licenses.
+
+For each dependency listed below, the following information is provided:
+  - Component name
+  - Copyright holder(s)
+  - License type
+  - Source repository (if applicable)
+
+--------------------------------------------------------------------------------
+
+(No third-party dependencies requiring attribution at this time.
+This section will be updated as dependencies are added to the project.)
+
+--------------------------------------------------------------------------------
+
+EXPORT CONTROL
+
+This distribution may include software subject to export control restrictions.
+It is your responsibility to ensure that your use and/or transfer does not
+violate applicable laws.
+
+For more information, see:
+  - U.S. Bureau of Industry and Security: https://www.bis.doc.gov/
+  - Wassenaar Arrangement: https://www.wassenaar.org/

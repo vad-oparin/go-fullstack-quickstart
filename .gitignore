@@ -1,0 +1,97 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+dist/
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+coverage.html
+coverage.txt
+
+# Dependency directories
+vendor/
+node_modules/
+
+# Go workspace file
+go.work
+go.work.sum
+
+# Build artifacts
+build/
+*.app
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Environment and configuration files
+.env
+.env.local
+.env.*.local
+*.secret
+config/local.yml
+config/local.yaml
+
+# Log files
+*.log
+logs/
+
+# Temporary files
+.tmp/
+tmp/
+temp/
+*.tmp
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Frontend build output
+web/dist/
+web/build/
+web/.next/
+web/.nuxt/
+web/out/
+.cache/
+
+# Package files
+*.tar.gz
+*.zip
+
+# Debug files
+debug
+__debug_bin
+dlv
+
+# Air (live reload) temporary files
+tmp/
+
+# Documentation build
+docs/_build/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.directory
